@@ -1,9 +1,9 @@
-### Hi there 👋
+ Hi there 👋
 
-<!--
-**nadeemcv/nadeemcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-He👋  part time developer with a passion for crafting both code and stories. Here's a glimpse into my journey:
+
+
+Part time developer with a passion for crafting both code and stories. Here's a glimpse into my journey:
 
 💻 Fluent in **C++**, I dive deep into the realm of algorithms and data structures.
 
@@ -26,4 +26,4 @@ He👋  part time developer with a passion for crafting both code and stories. H
 🌟 Let's collaborate and craft something extraordinary together! Reach out, and let's embark on an adventure of innovation and creativity:
 
 .
--->
+
