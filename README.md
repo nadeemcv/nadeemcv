@@ -26,5 +26,5 @@ Part time developer with a passion for crafting both code and stories. Here's a 
 🌟 Let's collaborate and craft something extraordinary together! Reach out, and let's embark on an adventure of innovation and creativity:
 
 .
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadeemcv)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadeemcv&show_icons=true&theme=transparent)
 
