@@ -28,3 +28,4 @@ Part time developer with a passion for crafting both code and stories. Here's a 
 .
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadeemcv&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadeemcv&hide_progress=true)
